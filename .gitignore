@@ -1,0 +1,39 @@
+# ============================
+# Java & Airline Management Project
+# ============================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ / IntelliJ / NetBeans / Eclipse / VSCode project settings
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# JAR libraries (optional: you can keep lib/ empty and tell in README how to download)
+lib/
+
+# Build directories
+bin/
+out/
+target/
+
+# Database credentials (optional: if you move DB credentials to a properties file later)
+config.properties
